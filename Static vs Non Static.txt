@@ -1,0 +1,7 @@
+Static Variables						Non-Static Variables
+
+-> It is a shared among all				-> Every object has it's own copy of
+the objects of the class				   nonstatic variables
+
+-> it can be accessed by all the 			-> it can only be access through objects 
+methods of that class					   of that class
